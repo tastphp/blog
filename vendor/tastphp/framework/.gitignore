@@ -1,0 +1,6 @@
+.idea/
+composer.json.bak
+vendor/
+config/*
+web/*
+build/
